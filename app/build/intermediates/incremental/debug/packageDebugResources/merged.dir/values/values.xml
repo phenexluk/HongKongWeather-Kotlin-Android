@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#1A1F4B</color>
+    <color name="widget_background">#000000</color>
+    <string name="app_name">Hong Kong Weather</string>
+    <string name="widget_description">Current Hong Kong weather and warnings from HKO</string>
+    <string name="widget_loading">Loading…</string>
+    <string name="widget_name">HK Weather</string>
+    <style name="Theme.HongKongWeather" parent="android:Theme.Material.Light.NoActionBar"/>
+</resources>
